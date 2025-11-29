@@ -8,8 +8,7 @@ Section: B 
 
 Course: Programming for Problem Solving using Python
 
-Assignment - 01 : Gradebook Analyzer
-
+Assignment - 02 : Gradebook Analyzer
 ---
 
 # 📘 Gradebook Analyzer
